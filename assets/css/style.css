@@ -251,3 +251,22 @@ section {
     margin:30 px 0 0 60px;
     color: white;
 }
+
+.contact-info h3 {
+    color:#fce138;
+    font-size: 32px;
+    margin: 20px 20px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 20px;
+    line-height: 1.5;
+    font-size 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
+/* Reach Out styles end */
