@@ -210,7 +210,7 @@ section {
     justify-content: space-between;
   }
 
-  .step:nth-child(even) {
+  .step:not(:last-child) {
       border-bottom: 1px solid #39a6b2;
   }
   
